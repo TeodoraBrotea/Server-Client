@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1614947250 source:d:\cursuri\sem4\cn\client\main.cpp
+	<ws2tcpip.h>
+	<iostream>
+	<stdio.h>
+	<math.h>
+

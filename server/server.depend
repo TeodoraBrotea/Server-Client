@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1614949238 source:d:\cursuri\sem4\cn\server\main.cpp
+	<winsock2.h>
+	<iostream>
+	<io.h>
+
